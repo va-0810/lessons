@@ -1,0 +1,33 @@
+*{
+	color: rgb(192, 191, 190);
+}
+h1{
+	color: rgba(13, 42, 42, 0.482);
+}
+li a{
+color: rgba(20, 243, 243, 0.871);
+}
+li{
+	color: rgba(0, 0, 0, 0.438);
+}
+.jackets p{
+	color: red;
+}
+.sweaters p:last-child{
+	color: blueviolet;
+}
+.shirts p:nth-child(2){
+	color: aquamarine;
+}
+.green{
+	color: rgb(4, 182, 4);
+}
+#blue, .link{
+	color: blue;
+}
+.grey{
+	color: rgba(128, 128, 128, 0.858);
+}
+.violet{
+	color: violet;
+}
