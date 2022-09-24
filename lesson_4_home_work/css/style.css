@@ -1,0 +1,49 @@
+body{
+	font-family: "Lato";
+	color: rgba(125, 125, 125, 0.622)
+	
+}
+header{
+	color: rgba(22, 19, 13, 0.139);
+}
+h1, h2{
+	font-family: "Roboto";
+	font-weight: 700;
+	color: rgb(41, 30, 30);
+}
+#blue{
+	color: blue;
+}
+#green{
+	color: green;
+}
+#red{
+	color: red;
+}
+.info p{
+	color: blueviolet;
+}
+.info .history{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: 700;
+}
+.which #red{
+	font-family: 'Times New Roman', Times, serif;
+	font-weight: 700;
+}
+.where p:first-child{
+	color: aquamarine;
+}
+
+.link{
+	color: aqua;
+}
+
+footer{
+	color: rgba(111, 111, 111, 0.253);
+}
+
+
+
+
+
