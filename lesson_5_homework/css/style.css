@@ -1,0 +1,123 @@
+.title{
+	font-family: "Qwitcher Grypen";
+}
+body{
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: italic;
+	text-align: justify;
+}
+.content{
+	width: 70%;
+	margin: 0 auto;
+}
+h1{
+	font-weight: 900;
+	text-align: center;
+}
+.serif span{
+	font-family: serif;
+}
+.cursive span{
+	font-family: cursive;
+}
+.fantasy span{
+	font-family: fantasy;
+}
+.monospace span{
+	font-family: monospace;
+}
+.italic{
+	font-size: 18px;
+}
+.italic span{
+	font-family: "CircularStd";
+	font-style: italic;
+}
+.italic .green{
+	color: green;
+}
+.italic .white{
+	color: rgb(255, 255, 255);
+	text-shadow: 0 0 1px #000;
+}
+.italic .red{
+	color: red;
+}
+.oblique{
+	font-family: "Times New Roman", Times, Baskerville, Georgia, serif;
+	font-style: oblique;
+}
+.bold span{
+	font-weight: 700;
+}
+.thin{
+	font-weight: 700;
+}
+.thin span{
+	font-weight: 100;
+}
+.opicity span{
+	color: rgba(0, 0, 255, 0.19);
+}
+.rigt{
+	text-align: right;
+}
+.through span{
+	text-decoration: line-through;
+}
+.underline span{
+	text-decoration: underline;
+}
+.uppercase span{
+	text-transform: uppercase;
+}
+.capitalize span{
+	text-transform: capitalize;
+}
+.lineheight{
+	line-height: 2.1;
+}
+.lspacing span{
+letter-spacing: 8px;
+}
+.wspacing span{
+	word-spacing: 4px;
+}
+.block{
+width: 70%;
+margin: 100px auto;
+background-color: rgb(28, 221, 235);
+height: 400px;
+padding: 100px;
+}
+.box{
+
+background-color: rgb(223, 219, 138);
+height: 200px;
+text-align: center;
+text-shadow: 0px 0px 2px rgb(8, 83, 195), 2px 1px 3px rgb(53, 52, 52);
+padding-top: 95px;
+border: 1px solid #000;
+border-radius: 15px;
+
+}
+h2{
+	text-align: center;
+	font-family: "Qwitcher Grypen";
+	font-size: 20px;
+	text-shadow: 0px 0px 2px red, 1px 2px 2px rgb(53, 52, 52);
+}
+.img{
+	max-width: 800px;
+	margin: 50px auto;
+
+}
+img{
+	width: 100%;
+}
+footer{
+	text-align: center;
+	text-shadow: 0px 0px 2px #000;
+}
+
+
